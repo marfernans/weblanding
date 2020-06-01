@@ -28,25 +28,46 @@ background-color: #ffdc69;
 }
 .content p{
   margin-bottom: 40px;
+  color: #484848;
 }
 .title {
 text-transform: uppercase;
 margin-bottom: 40px;
-  font-size: 40px;
+ font-size: 40px;
+ color: #484848;
 }
 
 .about{
   background: #b4ebbe;
-}
-.about p {
-  max-width: 1055px;
-  margin: 0 auto;
+  
 }
 .benefits {
   background: #49aa04be;
 }
+.list__benefits {
+display: flex;
+justify-content: center;
+align-items: center;
+list-style-type: none;
+font-size: 20px;
+color: #484848;
+}
+
+
+.about p {
+  max-width: 1055px;
+  margin: 0 auto;
+}
+
 
 .payment {
 background: #ffdc69;
-  text-align: left;
+color: #484848; 
+text-align: left;
+
+
+}
+.contain {
+max-width: 1055px;
+margin: 0 auto;
 }
