@@ -64,10 +64,24 @@ color: #484848;
 background: #ffdc69;
 color: #484848; 
 text-align: left;
-
-
+}
+.payment p {
+  max-width: 500px;
 }
 .contain {
 max-width: 1055px;
 margin: 0 auto;
+}
+
+.btn {
+display: inline-block;
+padding: 16px 30px;
+border: 2px solid #f8f8f8;
+color: #484848;
+text-decoration: none;
+}
+
+footer {
+  font-size: 20px;
+  color: #484848;
 }
