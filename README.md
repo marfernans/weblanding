@@ -35,6 +35,4 @@ Mario Enrique Fernandez Serrano
 ### 📄 Licencia
 Este proyecto está bajo la Licencia (MIT License) - mira el archivo LICENSE.md para detalles
 
-### 🎁 Gratitud 
-Gracias públicamente a PlatziMaster, Ana Belisa 🤓.
 ### ⌨️ con ❤️ por Marius 😊
