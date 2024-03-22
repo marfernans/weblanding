@@ -5,7 +5,7 @@
 ### Capturas de pantalla
 
 - ### Mobile
-  ![](https://media.giphy.com/media/KvTgfkAMuR72qjcY6T/giphy.gif)
+  ![]("https://media.giphy.com/media/KvTgfkAMuR72qjcY6T/giphy.gif")
 
 
 ### 🚀 Comenzando
