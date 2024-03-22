@@ -5,7 +5,7 @@
 ### Capturas de pantalla
 
 - ### Mobile
-  ![](https://firebasestorage.googleapis.com/v0/b/mfs-api-5e5f4.appspot.com/o/audiolanding%2Fgiphy.gif?alt=media&token=9c01e84e-f140-45ff-89f3-38916e3c2fa5)
+  ![](https://media.giphy.com/media/KvTgfkAMuR72qjcY6T/giphy.gif)
 
 
 ### 🚀 Comenzando
@@ -26,7 +26,7 @@ Tecnologías y herramientas utilizadas para el desarrollo del proyecto
 - HTML
 - CSS FLEXBOX
 ### ✒️ Autor
-Mario Enrique Fernandez Serrano
+Mario Enrique Fernandez S
 ### 📄 Licencia
 Este proyecto está bajo la Licencia (MIT License) - mira el archivo LICENSE.md para detalles
 
